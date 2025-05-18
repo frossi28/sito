@@ -46,7 +46,7 @@ h1, h2 {
 
 .contatti {
   padding: 60px 10%;
-  background-color: #00ff00; /* Verde chiaro */
+  background-color: #66cdaa; /* Verde chiaro */
 }
 
 .focus {
@@ -54,7 +54,7 @@ h1, h2 {
   flex-wrap: wrap;
   padding: 60px 10%;
   gap: 50px;
-  background-color: #e0f2e9;
+  background-color: #3cb371;
 }
 
 .left, .right {
