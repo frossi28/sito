@@ -39,9 +39,14 @@ h1, h2 {
 }
 
 /* Sezioni principali */
-.intro, .contatti {
+.intro {
   padding: 60px 10%;
-  background-color: #e0f2e9;
+  background-color: #e0f2e9; /* Verde chiaro */
+}
+
+.contatti {
+  padding: 60px 10%;
+  background-color: #e0f2e9; /* Verde chiaro */
 }
 
 .focus {
